@@ -2,25 +2,11 @@
 
 This is the finance tracker app from the Complete Ruby on Rails Developer course
 
-Things you may want to cover:
+Stock Restrictions:
 
-* Ruby version
+* Users can track only 10 stocks
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* No duplicate stocks
 
 
 Please feel free to use a different markup language if you do not plan to run
